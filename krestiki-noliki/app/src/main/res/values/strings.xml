@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">proj3</string>
+    <string name="main_menu">Main menu</string>
+    <string name="start_the_game">Start the game</string>
+    <string name="b1">b1</string>
+    <string name="b2">b2</string>
+    <string name="b3">b3</string>
+    <string name="b4">b4</string>
+    <string name="b5">b5</string>
+    <string name="b6">b6</string>
+    <string name="b7">b7</string>
+    <string name="b8">b8</string>
+    <string name="b9">b9</string>
+    <string name="menu">Menu</string>
+    <string name="retry">Retry</string>
+    <string name="krestiki_noliki"><![CDATA[Krestiki&Noliki]]></string>
+
+</resources>
